@@ -1,0 +1,22 @@
+celebrations:
+  - type: valentine
+    name: Valentine
+    date: 18.2.
+  - type: christmas
+    name: Christmas
+    date: 25.12.
+
+achievements:
+  - title: First Marathon
+    date: 15.09.2022
+    type: personal
+    description: >
+      Ran my first full marathon in under 4 hours.
+    weight: 1
+
+  - title: Promoted to Staff Engineer
+    date: 02.03.2023
+    type: [career, milestone]
+    description: >
+      Led the migration to Kubernetes and GitOps.
+    weight: 2
